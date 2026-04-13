@@ -1,7 +1,7 @@
 {
   "name": "maikuu-walk-on-space-platform",
-  "version": "1.0.0",
-  "title": "Walk on the Space Platforms",
+  "version": "1.1.0",
+  "title": "Walk on Space Platforms",
   "author": "maikuu",
   "contact": "",
   "homepage": "https://github.com/maikuITA/maikuu-walk-on-space-platform",
@@ -11,5 +11,5 @@
     "space-age >= 2.0.0",
     "squeak-through-2 >= 0.1.4"
   ],
-  "description": "You can now enter and exit the Space Platform Hub to walk freely in your space platform! Intented to be used in Escape to Space but SHOULD also work on vanilla maps."
+  "description": "You can now enter and exit the Space Platform Hub to walk freely in your space platform! Press 'Enter' to enter/exit the hub. Intented to be used in Escape to Space but SHOULD also work on vanilla maps."
 }
