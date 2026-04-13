@@ -1,0 +1,15 @@
+{
+  "name": "maikuu-walk-on-space-platform",
+  "version": "1.0.0",
+  "title": "Walk on the Space Platforms",
+  "author": "maikuu",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0",
+    "squeak-through-2 >= 0.1.4"
+  ],
+  "description": "You can now enter and exit the Space Platform Hub to walk freely in your space platform! Intented to be used in Escape to Space but SHOULD also work on vanilla maps."
+}
